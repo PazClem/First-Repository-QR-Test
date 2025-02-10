@@ -1,0 +1,40 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      font-family: outfit, Arial, Helvetica, sans-serif;
+    
+}
+.Card{
+    background-color: hsl(0, 0%, 100%);
+    padding: 16px;
+    max-width: 220px;
+    border-radius: 15px;
+}
+.QR{
+    width: 100%;
+    max-width: 220px;
+    border-radius: 15px;
+}
+h2{
+    font-size: 17px;
+    color: rgb(7, 7, 7);
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+p{
+    font-size: 12px;
+    color: rgb(7, 7, 7);
+    font-weight: 200;
+    text-align: center;
+    margin-top: 8px;
+    
+}
+
+
+    
+
