@@ -9,9 +9,10 @@ body{
 }
 .Card{
     background-color: hsl(0, 0%, 100%);
-    padding: 16px;
+    padding: 12px;
     max-width: 220px;
     border-radius: 15px;
+
 }
 .QR{
     width: 100%;
